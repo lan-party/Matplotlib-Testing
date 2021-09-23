@@ -5,7 +5,7 @@ Following some tutorials and trying to create an infographic.
 ![line output](line.png)
 
 ## legends titles and labels.py output
-![legends titles and labels output](legends titles and labels.png)
+![legends titles and labels output](legends%20titles%20and%20labels.png)
 
 ## bar charts and histograms.py output
 ![bar charts and histograms output](bar charts and histograms.png)
