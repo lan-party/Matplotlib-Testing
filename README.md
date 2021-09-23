@@ -8,13 +8,13 @@ Following some tutorials and trying to create an infographic.
 ![legends titles and labels output](legends%20titles%20and%20labels.png)
 
 ## bar charts and histograms.py output
-![bar charts and histograms output](bar charts and histograms.png)
+![bar charts and histograms output](bar%20charts%20and%20histograms.png)
 
 ## subplots.py output
 ![subplots output](subplots.png)
 
 ## pie chart.py output
-![pie chart output](pie chart.png)
+![pie chart output](pie%20chart.png)
 
 ## live graphs.py output
-![live graphs output](live graphs.gif)
+![live graphs output](live%20graphs.gif)
