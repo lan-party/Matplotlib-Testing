@@ -1,8 +1,9 @@
 # Matplotlib-Testing
 Following some tutorials and trying to create an infographic.
-[sentdex tutorial series](https://pythonprogramming.net/matplotlib-intro-tutorial/)
-[Corey Schafer tutorial series](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
-[Cartopy tutorial](https://www.youtube.com/watch?v=WwdmGw4Lca0)
+
+* [sentdex tutorial series](https://pythonprogramming.net/matplotlib-intro-tutorial/)
+* [Corey Schafer tutorial series](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+* [Cartopy tutorial](https://www.youtube.com/watch?v=WwdmGw4Lca0)
 
 ## line.py output
 ![line output](line.png)
