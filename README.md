@@ -25,6 +25,5 @@ Following some tutorials and trying to create an infographic.
 ![live graphs output](live%20graphs.gif)
 
 ## bci_infographic_update.py output
-### this is a WIP
-Visualizing data from [the bci wiki](https://bciwiki.org/index.php/Category:Companies) company list.
+Visualizing data from [the bci wiki](https://bciwiki.org/index.php/Category:Companies) company list. this is a WIP
 ![bci infographic output](bci_infographic.png)
