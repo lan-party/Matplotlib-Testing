@@ -23,3 +23,7 @@ Following some tutorials and trying to create an infographic.
 
 ## live graphs.py output
 ![live graphs output](live%20graphs.gif)
+
+## bci_infographic_update.py output
+### this is a WIP
+![bci infographic output](bci_infographic_update.png)
