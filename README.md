@@ -26,4 +26,4 @@ Following some tutorials and trying to create an infographic.
 
 ## bci_infographic_update.py output
 ### this is a WIP
-![bci infographic output](bci_infographic_update.png)
+![bci infographic output](bci_infographic.png)
