@@ -8,7 +8,8 @@ Following some tutorials and trying to create an infographic.
 ![legends titles and labels output](legends%20titles%20and%20labels.png)
 
 ## bar charts and histograms.py output
-![bar charts and histograms output](bar%20charts%20and%20histograms.png)
+![bar charts and histograms output 1](bar%20charts%20and%20histograms1.png)
+![bar charts and histograms output 2](bar%20charts%20and%20histograms2.png)
 
 ## subplots.py output
 ![subplots output](subplots.png)
