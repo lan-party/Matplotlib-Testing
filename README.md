@@ -24,6 +24,9 @@ Following some tutorials and trying to create an infographic.
 ## live graphs.py output
 ![live graphs output](live%20graphs.gif)
 
+## geographic plotting.py output
+![geographic plotting](geographic plotting.png)
+
 ## bci_infographic_update.py output
 Visualizing data from [the bci wiki](https://bciwiki.org/index.php/Category:Companies) company list. this is a WIP
 ![bci infographic output](bci_infographic.png)
