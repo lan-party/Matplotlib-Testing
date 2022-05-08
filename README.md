@@ -1,5 +1,5 @@
 # Matplotlib-Testing
-Following some tutorials and trying to create an infographic.
+Following some tutorials and trying to visualize some data.
 
 * [sentdex tutorial series](https://pythonprogramming.net/matplotlib-intro-tutorial/)
 * [Corey Schafer tutorial series](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
