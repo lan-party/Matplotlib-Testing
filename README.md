@@ -1,6 +1,7 @@
 # Matplotlib-Testing
-Following some tutorials and trying to visualize some data.
+A collection of scripts made while learning matplotlib for the application of visualizing perviously collected [neurotech company data](https://bciwiki.org/index.php/Category:Companies)
 
+Helpful resources:
 * [sentdex tutorial series](https://pythonprogramming.net/matplotlib-intro-tutorial/)
 * [Corey Schafer tutorial series](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 * [Cartopy tutorial](https://www.youtube.com/watch?v=WwdmGw4Lca0)
@@ -28,6 +29,6 @@ Following some tutorials and trying to visualize some data.
 ![geographic plotting](geographic%20plotting.png)
 
 ## bci_infographic_update.py output
-Visualizing data from [the bci wiki](https://bciwiki.org/index.php/Category:Companies) company list. this is a WIP
+Visualizing data from [company list](https://bciwiki.org/index.php/Category:Companies) on BCIWiki. this is a WIP
 ![bci infographic output](bci%20infographic.gif)
 ![bci infographic output 2](bci%20infographic2.gif)
